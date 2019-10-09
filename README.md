@@ -3,7 +3,7 @@
 
 This is a game where the player will have to guess the answer.
 
-3. Here's how the app works:
+ Here's how the app works:
 
    * There will be four crystals displayed as buttons on the page.
 
